@@ -56,6 +56,11 @@ $$
 \end{cases}
 $$
 
+further
+
+$$
+Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v'
+$$ 
 
 
 
