@@ -119,6 +119,8 @@ Mv \\
 \right].
 $$
 
+Only in this way does it equal first-order implicit time integration.
+
 
 
 
