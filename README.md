@@ -23,6 +23,13 @@ Note that $E$ is the total energy, a scalar. $[K]$ and $[ \frac{\partial \phi}{\
 
 $$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^T [K] [\frac{\partial \phi}{\partial x}] )[x] = [\frac{\partial \phi}{\partial x}]^T [K] [\phi] $$
 
-## 2. Constrained Optimization (P7: 58 min)
+## 2. Constrained Dynamics (P7: 58 min)
 
-
+$$ 
+\left[
+    \begin{array}{cc}
+      M & -\Delta t J^T \lambda ' \\
+      4 & 5 
+    \end{array}
+\right] \tag{dual variable}
+$$
