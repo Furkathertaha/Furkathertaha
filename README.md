@@ -74,7 +74,10 @@ $$
 So
 
 $$
-f' \Delta t - f \Delta t ≟ - \Delta t^2 J^\mathsf{T} C^{-1} J v'
+\begin{aligned}
+& f' \Delta t - f \Delta t ≟ - \Delta t^2 J^\mathsf{T} C^{-1} J v'\\
+\Rightarrow &
+\end{aligned}
 $$
 
 
