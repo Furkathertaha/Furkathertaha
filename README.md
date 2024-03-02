@@ -27,22 +27,22 @@ $$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^\ma
 
 $$ 
 \left[
-    \begin{array}{cc}
-      M & -\Delta t J^\mathsf{T}  \\
-      \Delta t J & C 
-    \end{array}
+\begin{array}{cc}
+M & -\Delta t J^\mathsf{T}  \\
+\Delta t J & C 
+\end{array}
 \right] 
 \left[
-    \begin{array}{c}
-      v' \\
-      \lambda '
-    \end{array}
+\begin{array}{c}
+v' \\
+\lambda '
+\end{array}
 \right]=
 \left[
-    \begin{array}{c}
-      Mv \\
-      -\phi 
-    \end{array}
+\begin{array}{c}
+Mv \\
+-\phi 
+\end{array}
 \right]
 \tag{dual variable}
 $$
@@ -96,7 +96,29 @@ $$
 Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v' + \Delta t^2 \frac{\partial J^\mathsf{T}}{\partial x } \lambda v',
 $$
 
-and
+and this induces back
+
+$$ 
+\left[
+\begin{array}{cc}
+M - \Delta t^2 \frac{\partial J^\mathsf{T}}{\partial x } \lambda & -\Delta t J^\mathsf{T}  \\
+\Delta t J & C 
+\end{array}
+\right] 
+\left[
+\begin{array}{c}
+v' \\
+\lambda '
+\end{array}
+\right]=
+\left[
+\begin{array}{c}
+Mv \\
+-\phi 
+\end{array}
+\right]
+\tag{dual variable}
+$$
 
 
 
