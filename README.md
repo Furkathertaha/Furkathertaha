@@ -28,7 +28,7 @@ $$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^\ma
 $$ 
 \left[
     \begin{array}{cc}
-      M & -\Delta t J^\mathsf{T} \lambda ' \\
+      M & -\Delta t J^\mathsf{T}  \\
       \Delta t J & C 
     \end{array}
 \right] 
@@ -46,3 +46,15 @@ $$
 \right]
 \tag{dual variable}
 $$
+
+This gives 
+
+$$
+\left\{\begin{array}{cc} 
+		1, & x=f(Pa_{x})\\ 
+		0, & other\ values 
+\end{array}\right.
+$$
+
+
+
