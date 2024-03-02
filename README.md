@@ -50,16 +50,13 @@ $$
 This gives 
 
 $$
-	我是夜阑的狗
-	\left\{
-		\begin{matrix}
-			角色保底+1 \\
-			武器定轨+1\\
-			七七命座+1\\
-			斩尽牛杂+999
-		\end{matrix}
-	\right.
+\begin{cases} 
+		Mv' -\Delta t J^\mathsf{T} \lamda ' = Mv \\ 
+		0, & other\ values 
+\end{cases}
 $$
+
+
 
 
 
