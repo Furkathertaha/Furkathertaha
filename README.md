@@ -28,7 +28,7 @@ $$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^T [
 $$ 
 \left[
     \begin{array}{cc}
-      M & -\Delta t J^T \lambda ' \\
+      M & -\Delta t J^\mathsf{T} \lambda ' \\
       4 & 5 
     \end{array}
 \right] \tag{dual variable}
