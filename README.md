@@ -16,6 +16,6 @@ $$
 
 $$E = \frac{1}{2} ([\frac{\partial \phi}{\partial x}] [x])^T [K] ([\frac{\partial \phi}{\partial x}] [x]) = \frac{1}{2} [x]^T ( [\frac{\partial \phi}{\partial x}] ^T [K] [\frac{\partial \phi}{\partial x}] ) [x]$$
 
-Note that $E$ is the total energy, a scalar. All in $[ ]$ are 2d matrices, except for $[x]$ and $[F]$ as vectors.
+Note that $E$ is the total energy, a scalar. All in $[ ]$ are 2d matrices, except for $[x]$, $[\phi]$ and $[F]$ as vectors.
 
-$$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^T [K] [\frac{\partial \phi}{\partial x}] )[x] = $$
+$$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^T [K] [\frac{\partial \phi}{\partial x}] )[x] = [\frac{\partial \phi}{\partial x}]^T [K] [\phi] $$
