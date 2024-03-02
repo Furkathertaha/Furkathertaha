@@ -86,9 +86,17 @@ but
 $$
 \begin{aligned}
 f &= - J^\mathsf{T} C^{-1}  \phi \\
-\frac{\partial f}{\partial x} &= -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} \frac{\partial \phi}{\partial x} = \frac{\partial J^\mathsf{T}}{\partial x } \lambda -J^\mathsf{T} C^{-1}  J  
+\frac{\partial f}{\partial x} &= -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} \frac{\partial \phi}{\partial x} = \frac{\partial J^\mathsf{T}}{\partial x } \lambda -J^\mathsf{T} C^{-1}  J  .
 \end{aligned}
 $$
+
+Therefore, it needs to add the extra term on. So
+
+$$
+Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v' + \Delta t^2 \frac{\partial J^\mathsf{T}}{\partial x } \lambda v',
+$$
+
+and
 
 
 
