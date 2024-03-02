@@ -85,8 +85,8 @@ but
 
 $$
 \begin{aligned}
-f = - J^\mathsf{T} C^{-1} \phi \\
-\frac{\partial f}{\partial x} = -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} \frac{\partial \phi}{\partial x} = -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} J  \\
+f &= - J^\mathsf{T} C^{-1} & \phi \\
+\frac{\partial f}{\partial x} &= -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} \frac{\partial \phi}{\partial x} = -\frac{\partial J^\mathsf{T}}{\partial x } C^{-1} \phi -J^\mathsf{T} C^{-1} & J  
 \end{aligned}
 $$
 
