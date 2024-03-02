@@ -13,14 +13,16 @@ $$
 \end{eqnarray}
 $$
 
-GAMES 103 Notes:
+# GAMES 103 Notes:
 
-1#
+## 1 Energy of Spring System (Matrix equation with chain manipulation)
 
 $$E = \frac{1}{2} ([\frac{\partial \phi}{\partial x}] [x])^T [K] ([\frac{\partial \phi}{\partial x}] [x]) = \frac{1}{2} [x]^T ( [\frac{\partial \phi}{\partial x}] ^T [K] [\frac{\partial \phi}{\partial x}] ) [x]$$
 
-Note that $E$ is the total energy, a scalar. $[K]$ and $[ \frac{\partial \phi}{\partial x} ]$ are 2d matrices, while $[x]$ , $[\phi]$ and $[F]$ are vectors.
+Note that $E$ is the total energy, a scalar. $[K]$ and $[ \frac{\partial \phi}{\partial x} ]$ are 2d matrices, while $[\phi]$, $[x]$ and $[F]$ are vectors.
 
 $$[F] = \frac{\partial E}{\partial x} = ( [\frac{\partial \phi}{\partial x}]^T [K] [\frac{\partial \phi}{\partial x}] )[x] = [\frac{\partial \phi}{\partial x}]^T [K] [\phi] $$
 
-2#
+## 2 Constrained Optimization (P7: 58 min)
+
+
