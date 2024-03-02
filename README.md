@@ -51,8 +51,8 @@ This gives
 
 $$
 \begin{cases} 
-		Mv' &-&\Delta t J^\mathsf{T} \lambda ' &= Mv \\ 
-		\Delta t J v' &+& C \lambda ' &= -\phi
+		Mv' &-&\Delta t J^\mathsf{T} \lambda ' &= &Mv \\ 
+		\Delta t J v' &+& C \lambda ' &= &-\phi
 \end{cases}
 $$
 
