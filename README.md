@@ -29,13 +29,19 @@ $$
 \left[
     \begin{array}{cc}
       M & -\Delta t J^\mathsf{T} \lambda ' \\
-      -\Delta t J & C 
+      \Delta t J & C 
     \end{array}
 \right] 
 \left[
     \begin{array}{c}
       v' \\
       \lambda '
+    \end{array}
+\right]=
+\left[
+    \begin{array}{c}
+      Mv \\
+      -\phi 
     \end{array}
 \right]
 \tag{dual variable}
