@@ -74,10 +74,10 @@ $$
 So
 
 $$
-\begin{array}{lrl}
-& f' \Delta t - f \Delta t & ≟ - \Delta t^2 J^\mathsf{T} C^{-1} J v'\\
-\Rightarrow & f'- f & ≟ -J^\mathsf{T} C^{-1} J \Delta x \\
-\Rightarrow & \frac{\partial f}{\partial x} & ≟ -J^\mathsf{T} C^{-1} J
+\begin{array}{lrll}
+& f' \Delta t - f \Delta t & ≟& - \Delta t^2 J^\mathsf{T} C^{-1} J v'\\
+\Rightarrow & f'- f & ≟& -J^\mathsf{T} C^{-1} J \Delta x \\
+\Rightarrow & \frac{\partial f}{\partial x} & ≟& -J^\mathsf{T} C^{-1} J
 \end{array}
 $$
 
