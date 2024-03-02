@@ -81,7 +81,7 @@ $$
 \end{aligned}
 $$
 
-but
+but,
 
 $$
 \begin{aligned}
