@@ -53,13 +53,13 @@ $$
 \begin{cases} 
 		Mv' &-&\Delta t J^\mathsf{T} \lambda ' &= &Mv \\ 
 		\Delta t J v' &+& C \lambda ' &= &-\phi
-\end{cases}
+\end{cases},
 $$
 
-further
+and further
 
 $$
-Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v' = Mv + f \Delta t  - \Delta t^2 J^\mathsf{T} C^{-1} J v'
+Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v' = Mv + f \Delta t  - \Delta t^2 J^\mathsf{T} C^{-1} J v'.
 $$ 
 
 If implicit time integration,
@@ -67,8 +67,14 @@ If implicit time integration,
 $$
 \begin{cases} 
 		\Delta v = a' \Delta t \Rightarrow  Mv' = Mv + f' \Delta t\\ 
-		\Delta x = v' \Delta t
+		\Delta x = v' \Delta t.
 \end{cases}
+$$
+
+So
+
+$$
+f' \Delta t - f \Delta t ?= - \Delta t^2 J^\mathsf{T} C^{-1} J v'
 $$
 
 
