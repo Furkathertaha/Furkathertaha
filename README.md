@@ -50,10 +50,15 @@ $$
 This gives 
 
 $$
-\left\{ \begin{array}{cc} 
-		1, & x=f(Pa_{x})\\ 
-		0, & other\ values 
-\end{array} \right
+	我是夜阑的狗
+	\left\{
+		\begin{matrix}
+			角色保底+1 \\
+			武器定轨+1\\
+			七七命座+1\\
+			斩尽牛杂+999
+		\end{matrix}
+	\right.
 $$
 
 
