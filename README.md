@@ -29,7 +29,14 @@ $$
 \left[
     \begin{array}{cc}
       M & -\Delta t J^\mathsf{T} \lambda ' \\
-      4 & 5 
+      -\Delta t J & C 
     \end{array}
-\right] \tag{dual variable}
+\right] 
+\left[
+    \begin{array}{c}
+      v' \\
+      \lambda '
+    \end{array}
+\right]
+\tag{dual variable}
 $$
