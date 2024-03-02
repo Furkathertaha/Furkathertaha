@@ -74,7 +74,7 @@ $$
 So
 
 $$
-f' \Delta t - f \Delta t  \(\text{U+225F}\)  - \Delta t^2 J^\mathsf{T} C^{-1} J v'
+f' \Delta t - f \Delta t  \text{U+225F}  - \Delta t^2 J^\mathsf{T} C^{-1} J v'
 $$
 
 
