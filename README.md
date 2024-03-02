@@ -90,7 +90,7 @@ f &= - J^\mathsf{T} C^{-1}  \phi \\
 \end{aligned}
 $$
 
-Therefore, it needs to add the extra term on. So
+Therefore, it needs to add the extra term to let
 
 $$
 Mv' = Mv - \Delta t J^\mathsf{T} C^{-1} \phi - \Delta t^2 J^\mathsf{T} C^{-1} J v' + \Delta t^2 \frac{\partial J^\mathsf{T}}{\partial x } \lambda v',
