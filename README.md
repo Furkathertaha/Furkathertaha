@@ -13,6 +13,8 @@ $$
 \end{eqnarray}
 $$
 
+Git Bash on Windows: when running sh, it seems that I have to go to the same directory where the .sh script lies and sh xx.sh, but not call it by sh xx/xx.sh from indirect path
+
 # GAMES 103 Notes:
 
 ## 1. Energy of Spring System (Matrix equation with chain manipulation)
