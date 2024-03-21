@@ -21,18 +21,13 @@ Webpage Design:
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
 
+<!-- see my workflow-->
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/Furkathertaha/Furkathertaha/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/Furkathertaha/Furkathertaha/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Furkathertaha/Furkathertaha/output/github-contribution-grid-snake.svg">
 </picture>
 
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
-  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
-  <img alt="github-snake" src="github-snake.svg" />
-</picture>
-
 <p align="center">
-  <img src="https://profile-counter.glitch.me/nephren17/count.svg" />
+  <img src="https://profile-counter.glitch.me/Furkathertaha/count.svg" />
 </p>
