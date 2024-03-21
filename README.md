@@ -123,6 +123,28 @@ $$
 
 Only in this way does it equal first-order implicit time integration.
 
+# Math derivation for a cnn problem
+
+Let's consider the CNN operation:
+$$
+\begin{aligned}
+\sum_j f_1(x) =& \sum_j \alpha_j A_j(x,x_j) := \sum_j \alpha_j A_j \\
+\sum_j f_2(x) =& \sum_j \beta_j B_j(x,x_j) := \sum_j \beta_j B_j   \\
+&\dots
+\end{aligned}
+$$
+Given intuition by:
+$$
+\begin{aligned}
+\alpha_1 A_1 \beta_1 B_1  &= \alpha_1 A_1 \cdot \beta_1 B_1\\
+\alpha_1 A_1 \beta_1 B_1 + \alpha_2 A_2 \beta_2 B_2 &\neq 
+(\alpha_1 A_1+\alpha_2 A_2) \cdot (\beta_1 B_1+\beta_2 B_2) \\
+but &= \\ \frac{1}{2}(\alpha_1 A_1+\alpha_2 A_2) \cdot (\beta_1 B_1+\beta_2 B_2)
+&+\frac{1}{2}(\alpha_1 A_1-\alpha_2 A_2) \cdot (\beta_1 B_1-\beta_2 B_2),
+\end{aligned}
+$$
+a more general equality is to be derived. \\
+
 
 
 
