@@ -9,8 +9,8 @@ on:
   workflow_dispatch:
   
   # run on every push on the master branch
-  push:
-    #I choose to only manually
+  #I choose to only manually run
+  #push:
     #branches:
     #- master
     
