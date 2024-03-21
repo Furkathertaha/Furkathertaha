@@ -1,11 +1,8 @@
-## Ciallo～(∠・ω< )⌒★
+## Welcome ～(˵¯͒〰¯͒˵)～ ★
 
 <img align='right' src='personal_cdn/sample_36800-0.png' width='400px'>
 
 [My Personal Website](https://furkathertaha.github.io/)
-<br>
-<br>
-<br>
 <br>
 <br>
 <br>
