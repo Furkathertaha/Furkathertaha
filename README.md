@@ -155,7 +155,7 @@ As illustrated in the figure, the desired $\textbf{diagonal}$ product addition $
 Therefore, we can formulate:
 
 $$
-\sum_{j=1}^n f_1(x) f_2(x) = \frac{1}{(\frac{n-1}{2})^2+n-1} \sum_{k=1}^n (C_k \circ F_1 )(x) \cdot  (C_k \circ F_2 )(x),
+\sum_{j=1}^n f_1(x) f_2(x) = \frac{1}{(\frac{n-2}{2})^2+n-1} \sum_{k=1}^n (C_k \circ F_1 )(x) \cdot  (C_k \circ F_2 )(x),
 $$
 
 where $C_k$ is the kernel representation of aforementioned sign-weight alternation. It is acted on basic CNN kernels $F_1$ and $F_2$, where originally:
