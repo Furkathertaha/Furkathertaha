@@ -142,7 +142,8 @@ $$
 \alpha_1 A_1 \beta_1 B_1  &= \alpha_1 A_1 \cdot \beta_1 B_1\\
 \alpha_1 A_1 \beta_1 B_1 + \alpha_2 A_2 \beta_2 B_2 &\neq 
 (\alpha_1 A_1+\alpha_2 A_2) \cdot (\beta_1 B_1+\beta_2 B_2) \\
-but &= \\ \frac{1}{2}(\alpha_1 A_1+\alpha_2 A_2) \cdot (\beta_1 B_1+\beta_2 B_2)
+but &= \\ 
+\frac{1}{2}(\alpha_1 A_1+\alpha_2 A_2) \cdot (\beta_1 B_1+\beta_2 B_2)
 &+\frac{1}{2}(\alpha_1 A_1-\alpha_2 A_2) \cdot (\beta_1 B_1-\beta_2 B_2),
 \end{aligned}
 $$
