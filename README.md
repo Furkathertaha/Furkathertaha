@@ -2,6 +2,12 @@
 
 <img align='right' src='personal_cdn/sample_36800-0.png' width='400px'>
 
+<br>
+<br>
+<br>
+<br>
+<br>
+
 [My Personal Website](https://furkathertaha.github.io/)
 
 Web Design:
