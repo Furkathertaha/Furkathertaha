@@ -2,7 +2,9 @@
 
 <img align='right' src='personal_cdn/sample_36800-0.png' width='400px'>
 
+This is Frankel Zhao.
 [Click to View My Website](https://furkathertaha.github.io/)
+bio TBD
 <br>
 <br>
 <br>
@@ -12,9 +14,6 @@
 <br>
 <br>
 <br>
-<br>
-<br>
-<be>
 <b> Webpage Design: <b>
 <p align="center">
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
