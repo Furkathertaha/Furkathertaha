@@ -5,9 +5,9 @@
 This is Frankel Zhao. <br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
-<b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see. <br> </b>
+<b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see.  &emsp;&emsp; --------- <br> </b>
 <br>
-Perception is all by which one's existence can be verified. Learn to appreciate wonderful things in the world! Lives are more fulfilled when starting to interact with the surroundings, whether physically or digitally. Love others, love family, embrace what you like, and chase for what you want.
+Perception is all by which one's existence can be verified. Learn to appreciate wonderful things in the world! Lives are more fulfilled when starting to interact with the surroundings, whether physically or digitally. Love others, love family, embrace what you like, and chase for what you want. <br> 
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
