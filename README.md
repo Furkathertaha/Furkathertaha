@@ -7,7 +7,7 @@ This is Frankel Zhao. <br>
 <br>
 <b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see. <br> </b>
 <br>
-Perception is all by which I find my existence, 
+Perception is all by which one's existence can be verified. 
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
