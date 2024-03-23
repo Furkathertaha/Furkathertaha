@@ -2,7 +2,7 @@
 
 <img align='right' src='personal_cdn/00017-2771211951.png' width='400px'>
 
-This is Frankel Zhao. <br>
+<b>This is Frankel Zhao.  </b><br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
 <b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see.  &emsp;&emsp;&emsp;&emsp; ------------------ <br> </b>
