@@ -7,8 +7,8 @@ This is Frankel Zhao. <br>
 <br>
 I see, therefore I think. <br>
 I think, therefore I am. <br>
-I am, therefore I see. <be>
-<be>
+I am, therefore I see. <br>
+<br>
 Perception is all by which I find my existence, 
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
