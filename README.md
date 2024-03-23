@@ -4,9 +4,9 @@
 
 This is Frankel Zhao. <br>
 [Click to View My Website!](https://furkathertaha.github.io/) <be>
-I see, therefore I think.
-I think, therefore I am.
-I am, therefore I see.
+I see, therefore I think. <br>
+I think, therefore I am. <br>
+I am, therefore I see. <br>
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
