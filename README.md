@@ -9,7 +9,7 @@
 <br>
 <b> Perception is all by which one's existence can be verified. Learn to appreciate wonderful things in the world! Lives are more fulfilled when starting to interact with surroundings, whether physically or digitally. Love others, love family, embrace what you like, and chase for what you want. </b><br> 
 <br> 
-<b> So, you can call me Furkathertaha, a weird name that arose in my head when I was young. No worry about its meaning, it's childhood innocence after all. I like fantasy, digital creations, games, anime, and virtual representations.
+<b> So, you can call me Furkathertaha, a weird name that arose in my head when I was young. No worry about its meaning, it's childhood innocence after all. I like fantasy, digital creations, games, anime, and virtual representations. I am currently focused on physics-based simulation, computer graphics, and machine learning applications. I would share some of my work at GitHub and hope to make continuous improvements. Enm, 
 <br>
 <br>
 <br>
