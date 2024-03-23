@@ -3,7 +3,7 @@
 <img align='right' src='personal_cdn/00017-2771211951.png' width='400px'>
 
 This is Frankel Zhao. <br>
-[Click to View My Website](https://furkathertaha.github.io/) <br>
+[Click to View My Website.](https://furkathertaha.github.io/) <br>
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
