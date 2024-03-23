@@ -5,7 +5,7 @@
 This is Frankel Zhao. <br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
-<b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see. <br> <b>
+<b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see. <br> </b>
 <br>
 Perception is all by which I find my existence, 
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
@@ -21,7 +21,7 @@ TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
 <br>
-<b> Webpage Design: <b>
+<b> Webpage Design: </b>
 <p align="center">
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
