@@ -5,8 +5,8 @@
 This is Frankel Zhao. <br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
-I see, therefore I think; <br>
-I think, therefore I am; <br>
+I see, therefore I think. <br>
+I think, therefore I am. <br>
 I am, therefore I see. <be>
 <br>
 TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
