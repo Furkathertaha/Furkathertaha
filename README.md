@@ -9,6 +9,7 @@
 <br>
 <b> Perception is all by which one's existence can be verified. Learn to appreciate wonderful things in the world! Lives are more fulfilled when starting to interact with surroundings, whether physically or digitally. <br> Love others, love family, embrace what you like, and chase for what you want. </b>
 <br> 
+<b> So, you can call me Furkathertaha, a weird name that arose in my head when I was young.
 <br>
 <br>
 <br>
