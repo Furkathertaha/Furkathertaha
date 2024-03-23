@@ -23,7 +23,7 @@ TBDxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxxx
 <br>
 <br>
 <be>
-<font size="5"> <b> Webpage Design: <b> </font> 
+<font size="9"> <b> Webpage Design: <b> </font> 
 <p align="center">
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
