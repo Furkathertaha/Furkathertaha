@@ -1,6 +1,9 @@
 ## Welcome ～(˵¯͒〰¯͒˵)～ ★
 
+<!--
 <img align='right' src='personal_cdn/00017-2771211951.png' width='400px'>
+-->
+<img align='right' src='personal_cdn/Klein_Melissa.jpg' width='400px'>
 
 <b>This is Frankel Zhao.  </b><br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
