@@ -21,9 +21,8 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
 <b> More is coming! >~< </b> 
 <br>
 <br>
-<p align="center"><b>Webpage Design:</b></p>
-<div text-align="center"> <b>Webpage Design:</b> </div>
 <p align="center">
+    <b>Webpage Design:</b> <br>
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
 
