@@ -33,6 +33,6 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Furkathertaha/Furkathertaha/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p align="center">
+<p text_align="center">
   <img src="https://profile-counter.glitch.me/Furkathertaha/count.svg" />
 </p>
