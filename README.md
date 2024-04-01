@@ -21,7 +21,7 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
 <b> More is coming! >~< </b> 
 <br>
 <br>
-<b align="center"> Webpage Design: </b>
+<b text-align="center"> Webpage Design: </b>
 <p align="center">
     <img src='https://github-readme-stats-one-bice.vercel.app/api/top-langs/?username=Furkathertaha&layout=compact&hide_border=true&langs_count=10&theme=buefy' width='400px'>
 </p>
@@ -33,6 +33,6 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/Furkathertaha/Furkathertaha/output/github-contribution-grid-snake.svg">
 </picture>
 
-<p text_align="center">
+<p>
   <img src="https://profile-counter.glitch.me/Furkathertaha/count.svg" />
 </p>
