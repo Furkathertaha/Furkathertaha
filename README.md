@@ -5,7 +5,7 @@
 -->
 <img align='right' src='personal_cdn/klein_Melissa.jpg' width='400px'>
 
-<b>This is Frankel Zhao.  </b><br>
+<b>This is Zavier Zhao.  </b><br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
 <b> I see, therefore I think. <br> I think, therefore I am. <br> I am, therefore I see.  &emsp;&emsp;&emsp;&emsp; ------------------ <br> </b>
