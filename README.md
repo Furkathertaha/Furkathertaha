@@ -35,5 +35,5 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
 </picture>
 
 <p align="center">
-  <img src="https://profile-counter.glitch.me/Furkathertaha/count.svg" />
+  <img src="https://gpvc.arturio.dev/Furkathertaha" alt="Visitor Count" />
 </p>
