@@ -35,5 +35,5 @@ As you can see, the virtual world indeed has metaphysical glamour, where you can
 </picture>
 
 <p align="center">
-  <img src="https://gpvc.arturio.dev/Furkathertaha" alt="Visitor Count" />
+  <img src="https://komarev.com/ghpvc/?username=Furkathertaha&color=green&style=flat-square" alt="Visitor Count" />
 </p>
