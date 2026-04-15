@@ -6,7 +6,7 @@
 <img align='right' src='personal_cdn/klein_Melissa.jpg' width='400px'>
 
 <b>This is Zavier Zhao.  </b><br>
-[Click to View My Personal Project!](https://github.com/Furkath/) <br>
+[Click to View My Personal Projects!](https://github.com/Furkath/) <br>
 [Quick Demo](https://furkathertaha.github.io/Proj_Work_demo.pdf) <br>
 [Click to View My Website!](https://furkathertaha.github.io/) <br>
 <br>
